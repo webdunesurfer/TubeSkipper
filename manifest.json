@@ -3,6 +3,13 @@
   "name": "TubeSkipper",
   "version": "1.0",
   "description": "Instantly skip YouTube ads. A lightweight, automatic ad-skipper for a seamless viewing experience.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "tubeskipper@webdunesurfer.github.com",
+      "strict_min_version": "109.0",
+      "data_collection_permissions": false
+    }
+  },
   "permissions": [
     "storage"
   ],
