@@ -1,6 +1,8 @@
-# TubeSkipper
+# 🎬 TubeSkipper
 
-A simple Firefox extension that automatically clicks the "Skip Ad" button on YouTube.
+A simple Firefox extension that automatically clicks the "Skip Ad" button on YouTube. 🚫📢
+
+🦊 Add it to your Firefox: https://addons.mozilla.org/en-US/firefox/addon/tubeskipper/
 
 ## Features
 - **Automatic Clicking:** Detects the skip button using `MutationObserver` for zero-latency detection.
